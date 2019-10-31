@@ -90,11 +90,4 @@ void tabuada(void){
 	system("pause");
 }
 
-
-
-
-
-
-
-
-//Breno B MARTINS
+//Breno B Martins
